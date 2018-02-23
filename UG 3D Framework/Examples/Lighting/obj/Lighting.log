@@ -1,0 +1,24 @@
+﻿  Lighting.cpp
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(301): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(302): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(303): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(304): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(305): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(306): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(307): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(60): warning C4005: 'MAX_PATH': macro redefinition
+  d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(12): note: see previous definition of 'MAX_PATH'
+d:\ct6025 - graphics programming with shaders\ug 3d framework\examples\lighting\src\lighting.cpp(226): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  main.cpp
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(301): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(302): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(303): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(304): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(305): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(306): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\framework\fbx_loader\include\fbxfile.h(307): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\ct6025 - graphics programming with shaders\ug 3d framework\examples\lighting\src\main.cpp(6): warning C4100: 'argv': unreferenced formal parameter
+d:\ct6025 - graphics programming with shaders\ug 3d framework\examples\lighting\src\main.cpp(6): warning C4100: 'argc': unreferenced formal parameter
+  Generating Code...
+  Lighting.vcxproj -> D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\Lighting\/bin\Lighting.exe
+  Lighting.vcxproj -> D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\Lighting\/bin\Lighting.pdb (Partial PDB)

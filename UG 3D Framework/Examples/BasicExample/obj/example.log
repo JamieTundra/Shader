@@ -1,0 +1,22 @@
+﻿  MyApplication.cpp
+  main.cpp
+d:\ct6025 - graphics programming with shaders\ug 3d framework\examples\basicexample\src\main.cpp(6): warning C4100: 'argv': unreferenced formal parameter
+d:\ct6025 - graphics programming with shaders\ug 3d framework\examples\basicexample\src\main.cpp(6): warning C4100: 'argc': unreferenced formal parameter
+  Generating Code...
+     Creating library D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\/bin\example.lib and object D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\/bin\example.exp
+framework.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(egl_context.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(wgl_context.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_window.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_tls.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_time.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_monitor.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_joystick.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_init.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(window.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(vulkan.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(monitor.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(input.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(init.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+framework.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(context.obj)' or at 'D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\bin\glfw.pdb'; linking object as if no debug info
+  example.vcxproj -> D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\/bin\example.exe
+  example.vcxproj -> D:\CT6025 - Graphics Programming with Shaders\UG 3D Framework\Examples\BasicExample\/bin\example.pdb (Partial PDB)
